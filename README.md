@@ -1,2 +1,3 @@
 # Deep-Learning-Book-2018
-Репозиторий для хранения примеров из книги С. Николенко, А. Кадурин, Е. Архангельская "Глубокое обучение. Погружение в мир нейронных сетей", 2018. ISBN 978-5-496-02536-2. В репозиторий будут выкладываться несколько измененные примеры кода, которые приводятся в книге.
+
+Repository for storing examples from the book by S. Nikolenko, A. Kadurin, E. Arkhangelskaya "Deep Learning. Immersion in the world of neural networks", 2018. ISBN 978-5-496-02536-2. The repository will be uploaded with slightly modified code examples which are given in the book.
